@@ -1,0 +1,10 @@
+../Core/Src/main.c:79:6:CS43L22_Init	1
+../Core/Src/main.c:154:6:CS43L22_Beep	17
+../Core/Src/main.c:235:6:PlayMelody	7
+../Core/Src/main.c:289:5:main	1
+../Core/Src/main.c:346:6:SystemClock_Config	3
+../Core/Src/main.c:397:13:MX_I2C1_Init	2
+../Core/Src/main.c:431:13:MX_I2S3_Init	2
+../Core/Src/main.c:463:13:MX_DMA_Init	1
+../Core/Src/main.c:481:13:MX_GPIO_Init	1
+../Core/Src/main.c:518:6:Error_Handler	1
